@@ -22,7 +22,7 @@ You must have this installed in your package.
 
 ## Usage
 
-`waitForHookChange` is allows you to pass in a callback which will trigger a
+`waitForHookChange` allows you to pass in a callback which will trigger a
 state change along with the hook result (from `renderHook`) and will return a
 promise which will resolve once the result's `.current` property changes.
 
