@@ -1,6 +1,7 @@
-# wait-for-hook-change
-
 ## Getting started
+
+This package allows you to `await` a change in a hook's output from the result
+of `@testing-library/react`'s `renderHook` function.
 
 To add to your package simply run the following:
 
@@ -16,9 +17,9 @@ Yarn:
 yarn add --dev wait-for-hook-change
 ```
 
-Note:
+**_Note:
 This library relies on `@testing-library/react` and is not included.
-You must have this installed in your package.
+You must have this installed in your package._**
 
 ## Usage
 
