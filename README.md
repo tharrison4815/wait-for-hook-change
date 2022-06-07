@@ -1,7 +1,7 @@
 ## Getting started
 
 This package allows you to `await` a change in a hook's output from the result
-of `@testing-library/react`'s `renderHook` function.
+of testing-library's `renderHook` function.
 
 To add to your package simply run the following:
 
